@@ -30,6 +30,6 @@ int main(){
 /*
     input                               output
     cin - a b c d e f $                 6    
-    cin.get()-a b c d e f $             14
+    cin.get()-a b c d e f $             13
 
 */
